@@ -1,5 +1,6 @@
 ### This file contains source code for creating formatted alignment output.
 ### written by Qi Gao
+### reference: https://stackoverflow.com/questions/3145046/printing-lines-that-contain-60-characters
 
 def generate_output(align_res, seq1_name, seq2_name, i, score_dec):
     output = []
